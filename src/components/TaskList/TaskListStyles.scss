@@ -1,0 +1,13 @@
+.task-list{
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+  max-height: 450px;
+  align-self: center;
+  overflow: auto;
+  padding: 5%;
+
+  &.no-top-padding {
+    padding-top: 0;
+  }
+}
