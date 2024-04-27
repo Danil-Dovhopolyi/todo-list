@@ -29,7 +29,14 @@ This Todo List application is designed to help users manage their daily tasks ef
 ## Installation
 
 To get started with this project, clone the repository and install dependencies.
+```bash
+# Clone the repository
+git clone https://github.com/Danil-Dovhopolyi/todo-list.git
+cd todo-list
 
+# Install dependencies
+npm install
+```
 ## Usage
 
 To run the application locally:
